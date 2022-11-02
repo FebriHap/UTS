@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buat</string>
+
+    <string-array name="arr_jalur">
+        <item>Jalur Pendaftaran</item>
+        <item>Jalur Undangan</item>
+        <item>Jalur Ujian Masuk</item>
+    </string-array>
+</resources>
